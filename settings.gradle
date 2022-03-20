@@ -1,2 +1,2 @@
 rootProject.name = 'longpowerset'
-
+gradle.version = '7.3'
